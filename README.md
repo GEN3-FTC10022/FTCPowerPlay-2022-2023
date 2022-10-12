@@ -1,3 +1,9 @@
+
+# this is a copy of the road runner quick start 
+## things to do 
+* learn roadrunner
+* model the dead wheel encoders 
+* set up the sub classes 
 # Road Runner Quickstart
 
 An example FTC project using [Road Runner](https://github.com/acmerobotics/road-runner). **Note:** Road Runner is in alpha and many of its APIs are incubating.
@@ -15,3 +21,5 @@ For more detailed instructions on getting Road Runner setup in your own project,
 ## Documentation
 
 Check out the new [online quickstart documentation](https://acme-robotics.gitbook.io/road-runner/quickstart/introduction).
+
+

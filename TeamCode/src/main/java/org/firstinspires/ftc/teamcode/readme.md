@@ -4,6 +4,8 @@
 TODO 
 
 * set encoder names in hardWareMap
+* 
+* https://learnroadrunner.com/dead-wheels.html#tuning-three-wheel
 
   public static double LATERAL_DISTANCE = 10; // in; distance between the left and right wheels
   public static double FORWARD_OFFSET = 4; // in; offset of the lateral wheel
